@@ -614,7 +614,7 @@ subtitle:
     - Not enough to have
 
 # Loading Animation (加載動畫)
-preloader: true
+preloader: false
 
 # aside (側邊欄)
 # --------------------------------------
